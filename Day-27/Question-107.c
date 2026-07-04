@@ -6,10 +6,6 @@ write a program to create salary management system.
 
 int main()
 {
-    // -------------------------------
-    // Salary Management System
-    // Simple C Program for Beginners
-    // -------------------------------
 
     // Variable Declaration
     int empID;
